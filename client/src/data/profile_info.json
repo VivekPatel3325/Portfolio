@@ -2,9 +2,9 @@
     "basic_info": {
         "image": "profile-pic.jpg",
         "name": {
-            "first_name": "Lorem ",
-            "middle_name": "elit",
-            "last_name": "Ipsum",
+            "first_name": "Vivekkumar ",
+            "middle_name": "Rameshbhai",
+            "last_name": "Patel",
             "order": [
                 "first_name",
                 "middle_name",
@@ -22,7 +22,7 @@
             "emoji": "&#128222;"
         },
         "email_id": {
-            "value": "lorem.ipsum@gmail.com",
+            "value": "patelvivek221996@gmail.com",
             "emoji": "&#128232;",
             "emoji_style": {
                 "font-size": "20px"
@@ -114,21 +114,15 @@
                         "size": "sm"
                     },
                     {
-                        "name": "Javascript",
-                        "icon": "javascript.svg",
-                        "percentage": 85,
-                        "size": "sm"
-                    },
-                    {
                         "name": "Typescript",
                         "icon": "typescript.svg",
                         "percentage": 80,
                         "size": "sm"
                     },
                     {
-                        "name": "NodeJS",
-                        "icon": "nodejs.svg",
-                        "percentage": 80,
+                        "name": "Java",
+                        "icon": "java.svg",
+                        "percentage": 95,
                         "size": "sm"
                     }
                 ]

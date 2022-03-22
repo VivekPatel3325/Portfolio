@@ -44,11 +44,6 @@
                         "icon": "github.svg"
                     },
                     {
-                        "name": "Wordpress",
-                        "url": "",
-                        "icon": "wordpress.svg"
-                    },
-                    {
                         "name": "Codechef",
                         "url": "",
                         "icon": "codechef.svg"

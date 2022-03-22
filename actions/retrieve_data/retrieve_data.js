@@ -47,11 +47,6 @@ const handler = async (event) => {
                         "icon": "github.svg"
                     },
                     {
-                        "name": "Wordpress",
-                        "url": "",
-                        "icon": "wordpress.svg"
-                    },
-                    {
                         "name": "Codechef",
                         "url": "",
                         "icon": "codechef.svg"
